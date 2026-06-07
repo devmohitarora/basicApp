@@ -4,5 +4,9 @@ tets;
 tets2;
 
 bjb;
+dssdgffgfdfd;
 ImageBitmapRenderingContext;
-vvbvhvhvhdvs
+
+NamedNodeMapnm;
+
+navigatorm;
