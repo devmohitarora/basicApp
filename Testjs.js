@@ -45,9 +45,7 @@ async function bulkUpdateDatabase(results) {
 
   const connection = await pool.promise().getConnection();
   try {
-    // Assuming your table has 'id', 'status_code', and 'is_active' columns
-    // Using a bulk INSERT ... ON DUPLICATE KEY UPDATE or a CASE statement for speed
-    // Here is an efficient transaction block for updates
+
     await connection.beginTransaction();
     
     const query = `
@@ -117,3 +115,8 @@ async function startProcessing() {
 }
 
 startProcessing().catch(console.error);
+
+
+
+
+
