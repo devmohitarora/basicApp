@@ -13,21 +13,15 @@ const abc2 = () => {
 const abc3 = () => {
   console.log("hello world");
 };
-
 const abc4 = () => {
   console.log("hello world");
 };
-
 const abc5 = () => {
   console.log("hello world");
 };
-
 const abc6 = () => {
   console.log("hello world");
 };
 const abc7 = () => {
   console.log("hello world");
 };
-false;
-dfdfdfd;
-fdfdf;
