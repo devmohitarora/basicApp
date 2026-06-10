@@ -24,3 +24,7 @@ const abc5 = () => {
 const abc6 = () => {
   console.log("hello world");
 };
+const abc7 = () => {
+  console.log("hello world");
+};
+
