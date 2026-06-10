@@ -20,3 +20,7 @@ const abc4 = () => {
 const abc5 = () => {
   console.log("hello world");
 };
+
+const abc6 = () => {
+  console.log("hello world");
+};
