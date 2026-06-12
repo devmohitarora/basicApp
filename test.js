@@ -1,8 +1,10 @@
-const abc = () => {
+const abc = () => {};
+
+const abc1 = () => {
   console.log("hello world");
 };
 
-const abc1 = () => {
+const abc10 = () => {
   console.log("hello world");
 };
 
@@ -27,4 +29,4 @@ const abc7 = () => {
 };
 const abc8 = () => {
   console.log("hello world");
-}
+};
