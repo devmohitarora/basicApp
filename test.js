@@ -11,6 +11,9 @@ const abc10 = () => {
 const abc2 = () => {
   console.log("hello world");
 };
+const abc11 = () => {
+  console.log("hello world");
+};
 
 const abc3 = () => {
   console.log("hello world");
@@ -28,5 +31,9 @@ const abc7 = () => {
   console.log("hello world");
 };
 const abc8 = () => {
+  console.log("hello world");
+};
+
+const abc12 = () => {
   console.log("hello world");
 };
