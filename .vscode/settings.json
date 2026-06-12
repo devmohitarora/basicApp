@@ -1,3 +1,8 @@
 {
-  "files.readonlyInclude": {}
+  "files.readonlyInclude": {
+    "blacksparrow:**/Xyz.js": true,
+    "blacksparrow:**/test.js": true,
+    "blacksparrow:**/index.ts": true,
+    "blacksparrow:**/index.php": true
+  }
 }
