@@ -118,8 +118,4 @@ async function startProcessing() {
   pool.end();
 }
 
-const Test = () => {};
-
 startProcessing().catch(console.error);
-
-BasID;
